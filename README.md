@@ -1,6 +1,6 @@
 # Theeti
 
-WEBSITE LINK : https://thedevcalledakshay.github.io/Theeti_Nutrinional_Tracker_Website/
+WEBSITE LINK : https://niyamathew7034-source.github.io/Theeti_Nutritional_Tracker_Website/
 
 **Eat. Train. Repeat. Simple. No bullshit.**
 
@@ -27,7 +27,7 @@ No complicated setup. Just enter what you ate and let Theeti do the math.
 
 ## How to Run
 
-Click this website link: https://thedevcalledakshay.github.io/Theeti_Nutrinional_Tracker_Website/
+Click this website link: https://niyamathew7034-source.github.io/Theeti_Nutritional_Tracker_Website/
 
 ## Project Status
 
@@ -47,6 +47,9 @@ Future plans include:
 ## Author
 
 **Akshay Chand S.**
+
+## Collaborator
+**Niya Mathew.**
 
 B.Tech CSE Student | LPU
 
